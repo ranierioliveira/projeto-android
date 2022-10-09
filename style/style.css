@@ -129,6 +129,9 @@ main a:hover{
 
 main img{
     width: 100%;
+    margin: auto; 
+    display:block;
+
 }
 main img.pequena {
     max-width: 350px;
